@@ -7,8 +7,8 @@ A series of simple projects demonstrating coding different sensors and actuators
 # Light Accelerator
 [![](http://img.youtube.com/vi/vOVaUuepstE/0.jpg)](http://www.youtube.com/watch?v=vOVaUuepstE "Light Accelerator")
 
-# Knob Playtone
-[![](http://img.youtube.com/vi/OPP75UPP4Y8/0.jpg)](http://www.youtube.com/watch?v=OPP75UPP4Y8 "Knob Playtone")
+# Knob Play Tone
+[![](http://img.youtube.com/vi/OPP75UPP4Y8/0.jpg)](http://www.youtube.com/watch?v=OPP75UPP4Y8 "Knob Play Tone")
 
 # Level Check Light Accelerator
 [![](http://img.youtube.com/vi/vOVaUuepstE/0.jpg)](http://www.youtube.com/watch?v=vOVaUuepstE "Level Check Light Accelerator")
